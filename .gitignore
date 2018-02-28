@@ -16,6 +16,7 @@ jspm_packages/
 
 .env
 .next
+.cache
 
 dist/
 

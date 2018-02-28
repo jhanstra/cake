@@ -1,5 +1,5 @@
-import { exampleApi } from './example'
+import { groupApi } from './group'
 
 export {
-  exampleApi
+  groupApi
 }
